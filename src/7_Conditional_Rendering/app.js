@@ -6,7 +6,6 @@ const title =
   "Chapter 7 - Conditional Rendering";
 
 
-
 /*
 you can create distinct components that encapsulate behavior you need.
 Then, you can render only some of them, depending on the state of your application
